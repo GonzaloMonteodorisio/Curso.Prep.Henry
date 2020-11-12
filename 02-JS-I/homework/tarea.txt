@@ -1,0 +1,6 @@
+-Variables: Una variable es una forma de almacenar el valor de algo para usar más tarde. 
+-Strings: Las “strings” son bloques de texto, siempre se definirán entre comillas, ya sea simple o doble. Cualquier texto entre comillas es una cadena o string.
+-Funciones: las funciones son un conjunto de instrucciones que realizan una determinada tarea u operan sobre determinada/s variable/s, llamadas argumentos (modificarlas, hacer cáculos con éllas, etc) de entrada devolviendo (o haciendo un return), en este caso,  un valor de salida.
+-Argumentos: son las variables de entrada que podemos agregar a una función (se agregan entre paréntesis y separadas por coma (,) si hay más de una).
+-return: es la forma en que los datos escapan de una función; o sea su salida.
+-Valores booleanos: son operadores de control de flujo, lo que significa que si una condición se cumple (true) el flujo de operaciones toma un camino y si ésta no se cumple (false), toma otro camino.
