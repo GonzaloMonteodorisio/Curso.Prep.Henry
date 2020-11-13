@@ -1,0 +1,1 @@
+-Arrays: son matrices; o sea contenedores de almacenamiento para colecciones de datos (distintas variables por ejemplo).
