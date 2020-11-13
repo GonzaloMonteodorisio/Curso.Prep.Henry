@@ -1,0 +1,6 @@
+-for: es un bucle en el que necesitaremos tres cosas. Primer, una variable sobre la que se repetirá el bucle; luego, una declaración condicional en la que el bucle se seguirá cumpliendo hasta que la la declaración sea falsa; y por último, en cuanto incrementamos nuestra variable en cada ciclo.
+-&&: es un operador lógico que significa "Y" ("AND"). Devuelve true si ambas expresiones son verdaderas. 
+Devolverá false si alguna es falsa
+-||: es un operador lógico que significa "O" ("OR"). Devuelve true si una o ambas expresiones es verdadera.
+Devolverá false si las dos son falsas.
+-!: es un operador lógico que significa "NO" ("NOT"). Devuelve el operador booleano opuesto de lo que se le pasa.
