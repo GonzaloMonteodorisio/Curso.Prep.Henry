@@ -1,0 +1,2 @@
+* `prototype`: es una forma única que tienen las clases de establecer un método una vez y dar acceso a cada objeto de esa clase a esos métodos. 
+* _Constructors_ (de Clases): son funciones que nos permiten crear objetos.
