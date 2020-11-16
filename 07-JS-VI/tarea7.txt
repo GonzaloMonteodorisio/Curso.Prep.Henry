@@ -1,0 +1,1 @@
+*Funciones Callback: Son funciones que se pasan como argumento de otra función.
